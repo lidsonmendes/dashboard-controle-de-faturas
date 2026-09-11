@@ -1,5 +1,6 @@
 # dashboard-controle-de-faturas
 Dashboard em Power BI para controle e análise de faturas, com identificação de causa raiz de rejeições
+
 📊 Dashboard de Controle de Faturas — Power BI
 
 Dashboard analítico construído em Power BI para acompanhamento e análise de processos de faturas de um setor de Contas a Pagar, com identificação de causa raiz de rejeições através de investigação orientada por dados.
