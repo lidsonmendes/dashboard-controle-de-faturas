@@ -43,15 +43,13 @@ Contratos e ordens de compra acompanhados (acumulado desde 2024)	~24 mil
 
 🖼️ Prints do Dashboard
 
-Visão Geral
-![Visão Geral] (https://github.com/lidsonmendes/dashboard-controle-de-faturas/blob/main/VisaoGeral.png)
+![Visão Geral](https://github.com/lidsonmendes/dashboard-controle-de-faturas/blob/main/VisaoGeral.png)
 
-Análise por Projeto
-![Análise por Projeto] (https://github.com/lidsonmendes/dashboard-controle-de-faturas/blob/main/AnaliseProjeto.png)
+![Análise por Projeto](https://github.com/lidsonmendes/dashboard-controle-de-faturas/blob/main/AnaliseProjeto.png)
 
 GIF demonstrativo
-![Visão Geral] (https://github.com/lidsonmendes/dashboard-controle-de-faturas/blob/main/VisaoGeral.gif)
-![Análise por Projeto] (https://github.com/lidsonmendes/dashboard-controle-de-faturas/blob/main/AnaliseProjeto.gif)
+![Visão Geral](https://github.com/lidsonmendes/dashboard-controle-de-faturas/blob/main/VisaoGeral.gif)
+![Análise por Projeto](https://github.com/lidsonmendes/dashboard-controle-de-faturas/blob/main/AnaliseProjeto.gif)
 
 ---
 
@@ -63,7 +61,7 @@ Causa raiz investigada, não só reportada: a investigação desse projeto revel
 ---
 
 🔍 Como explorar o dashboard
-[Dashboard Power BI (.pbix) - Clique para Baixar] (https://github.com/lidsonmendes/dashboard-controle-de-faturas/blob/main/Faturas.pbix)
+[Dashboard Power BI (.pbix) - Clique para Baixar](https://github.com/lidsonmendes/dashboard-controle-de-faturas/blob/main/Faturas.pbix)
 Abra no Power BI Desktop (gratuito)
 Use o filtro de Data (canto superior) para ajustar o período analisado
 Use o filtro de Projeto (na página "Análise por Projeto") para investigar um projeto específico
